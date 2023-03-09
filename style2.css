@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+.p1 {
+    color: rgb(59, 116, 180) ;
+    text-align: right;
+    text-indent: 0px;
+    text-decoration: underline;
+    text-transform:  lowercase;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+
+.p2 {
+    color: rgb(0, 0, 0);
+    background-position: 0px;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    background-image: url('https://png.pngtree.com/background/20210717/original/pngtree-beautiful-blue-sky-background-template-with-cloude-picture-image_1444036.jpg');
+    background-repeat: repeat-x;
+    background-position: center;
+}
